@@ -11,10 +11,10 @@ I have spent 3 year's working
 ### Interested
 
 ### Porftolios
-You can visit my website where I will ether have my portfolio or something I'm working on. </br>
+Ether portfolio or something I'm working on. </br>
 https://justbadcode.co.uk/
 
-Here you can take a look at my artistic and creative side.</br>
+Creative side.</br>
 https://www.artstation.com/sampugh
 
 <!--
