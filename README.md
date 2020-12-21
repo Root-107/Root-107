@@ -4,7 +4,6 @@ ___
 
 ### About me
 I am a software developer. Specalising in react and unity application development.
-I have spent 3 year's working 
 
 ### Working on
 
