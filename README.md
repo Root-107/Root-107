@@ -7,10 +7,7 @@ I am a software developer. Specalising in react and unity application developmen
 
 ### Working on
 Networked VR framework
-
-### Interested
-Shaders
-Unity
+Unity integration to custome Rest API
 
 ### Porftolios
 In progress portfolio site.</br>
