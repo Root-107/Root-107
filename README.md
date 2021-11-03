@@ -1,4 +1,4 @@
-### Hi there! My name is Sam Pugh
+### Hi there! I'm Sam Pugh
 ___
 
 
