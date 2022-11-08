@@ -3,13 +3,12 @@ ___
 
 
 ### About me
-I am a software developer. Specalising in react and unity application development.
+I am a senior unity sorftware developer.
 
 ### Working on
-- Networked VR framework
-- Unity integration to custom Rest API
 
-### Porftolios
+### Porftolio
+> __NOTE_: Currently down, need to renew
 In progress portfolio site.</br>
 https://justbadcode.co.uk/
 
